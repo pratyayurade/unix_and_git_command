@@ -1,4 +1,4 @@
 Today is Wednesday
 We are learning Git and Unix
 Changes made
-branching and adding
+brnaching and changing and many more
